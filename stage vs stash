@@ -1,0 +1,11 @@
+stage : 
+
+ - to stage a file is simply to prepare if finely for a commit.
+ 
+ - Stage is the step before to make a commit, you add modified files to "Staged files" to create your next commit.
+ 
+stash :
+
+ - stash will move your modified files into a stack.
+ 
+ - so, later in the same or in another branch, you will be able to bring them back and see those modifications in your project.
