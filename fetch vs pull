@@ -1,0 +1,14 @@
+fetch :
+
+- It will download all refs and objects and any new branches to your local Repository.
+
+- it is basically used to know if there is any changes or not, if yes then what are rhat changes,
+without pulling. 
+
+
+
+pull :
+
+- git pull is a Git command used to update the local version of a repository from a remote.
+
+- It will apply the changes from remote to the current branch in local repository.
